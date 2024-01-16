@@ -1,0 +1,33 @@
+{
+  "name": "arivujs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc index.ts",
+    "jsarivu": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bestmat-inc/arivujs-bestmat.git"
+  },
+  "keywords": [
+    "bestarivu",
+    "arivujs",
+    "bestmat",
+    "arivu",
+    "bestdeveloepr",
+    "yuvanthb"
+  ],
+  "author": "Yuvanth B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bestmat-inc/arivujs-bestmat/issues"
+  },
+  "homepage": "https://github.com/bestmat-inc/arivujs-bestmat#readme",
+  "dependencies": {
+    "consola": "^3.2.3",
+    "typescript": "^5.3.3"
+  }
+}
